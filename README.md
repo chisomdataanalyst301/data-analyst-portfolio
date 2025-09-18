@@ -36,7 +36,7 @@ Step-by-step learning projects showing my growth in the data analytics journey.
 
 🏥 Youtube Channel Data Analysis → Identifying how youtube channels perform.[https://1drv.ms/x/c/1c5ec6841021395c/EcqOM37S00xCr0CxeMAByR4BsCMejZcmTERWb_v1HFzQRw?e=FLmWEC]
 
-🛒 Sales Performance Dashboard → Interactive Power BI dashboard for retail sales
+🛒 Superstore Performance Dashboard → Interactive Ecel dashboard for retail sales. [https://1drv.ms/x/c/1c5ec6841021395c/EemAgnK-k2tEpLjAJmX8OOcB3Mg0TpB800CxUdyk79yzgQ?e=AfLTJo]
 
 🎬 Movie Data Insights → Analyzing IMDB dataset for trends in ratings & genres
 
