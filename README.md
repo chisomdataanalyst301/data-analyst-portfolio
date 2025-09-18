@@ -1,11 +1,16 @@
 # data-analyst-portfolio
-Hi, I’m Chisom Precious 🔎 Aspiring Data Analyst | Turning raw data into clear insights.  
-I’m passionate about analyzing data to uncover meaningful patterns, solve real-world problems, 
+Hi, I’m Chisom Precious 🔎 Aspiring Data Analyst | Turning raw data into clear insights.
+
+I’m passionate about analyzing data to uncover meaningful patterns, 
+
+solve real-world problems, 
+
 and help businesses make informed decisions. 
+
 My focus is on data analysis, visualization, and storytelling with data.
 
 
-🛠️ Skills & Tools
+# 🛠️ Skills & Tools
 
 Languages: Python (Pandas, NumPy), SQL
 
@@ -16,7 +21,7 @@ Data Handling: Excel (Pivot Tables, Power Query), CSV, APIs
 Other: Git & GitHub, Jupyter Notebook, Data Cleaning & Wrangling.
 
 
-📊 What You’ll Find Here
+# 📊 What You’ll Find Here
 
 Real-world data analysis projects (exploratory data analysis, dashboards, business insights)
 
@@ -27,7 +32,7 @@ Data visualization projects that turn numbers into stories
 Step-by-step learning projects showing my growth in the data analytics journey.
 
 
-📂 Featured Projects
+# 📂 Featured Projects
 
 🏥 Healthcare Data Analysis → Identifying trends in patient records
 
@@ -38,7 +43,7 @@ Step-by-step learning projects showing my growth in the data analytics journey.
 💰 Financial Data Exploration → Detecting patterns in stock & gold market movements.
 
 
-🌱 Currently Learning
+# 🌱 Currently Learning
 
 Advanced SQL queries & optimization
 
@@ -47,7 +52,7 @@ Machine Learning basics for predictive analytics
 Building dashboards that drive decisions
 
 
-🤝 Let’s Connect
+# 🤝 Let’s Connect
 
 📧 Email: [orjichisom12@outlook.com]
 
