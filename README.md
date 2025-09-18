@@ -34,7 +34,7 @@ Step-by-step learning projects showing my growth in the data analytics journey.
 
 # 📂 Featured Projects
 
-🏥 Healthcare Data Analysis → Identifying trends in patient records
+🏥 Youtube Channel Data Analysis → Identifying how youtube channels perform.[https://1drv.ms/x/c/1c5ec6841021395c/EcqOM37S00xCr0CxeMAByR4BsCMejZcmTERWb_v1HFzQRw?e=FLmWEC]
 
 🛒 Sales Performance Dashboard → Interactive Power BI dashboard for retail sales
 
